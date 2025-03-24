@@ -1,3 +1,5 @@
 print ("hello world")
 print("second practical test")
+print("today is monday")
+print("this is a long week")
 print("how is today")
